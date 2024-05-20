@@ -1,3 +1,4 @@
+Edited by Bikram
 # vim-be-good
 
 Vim be good is a plugin designed to make you better at vim by creating a game
